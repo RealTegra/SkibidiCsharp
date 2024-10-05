@@ -11,6 +11,7 @@ namespace CalcolatoreDiVotiSessoPazzi
         static void Main(string[] args)
         {
             Console.WriteLine("Work in progress!");
+            Console.WriteLine("Versione 1.1");
             Console.ReadKey();
         }
     }
